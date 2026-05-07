@@ -1,6 +1,6 @@
 import os
 import wikipedia
-from ddgs import DDGS  # changed from duckduckgo_search
+from ddgs import DDGS
 from datetime import datetime
 import textwrap
 from config import OUTPUT_DIR
